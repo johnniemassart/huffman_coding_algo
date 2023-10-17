@@ -1,0 +1,21 @@
+  - 111
+a - 1010
+d - 01000
+e - 001
+h - 1011
+i - 1000
+, - 01100
+l - 110
+m - 01001
+o - 1001
+p - 01010
+r - 01011
+s - 000
+T - 01101
+w - 01110
+x - 01111
+The encoded message is 011011011100000011110000001111010111101100111011010010110011101110100101011110010001110010111110100100101010110001
+The decoded message is This is a hello, world example
+The message size is 114.
+The required ASCII table size is 128.
+The total bits require via Hoffman coding is 242.
